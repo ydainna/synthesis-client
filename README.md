@@ -17,7 +17,18 @@ dans le dossier src :
 
 ## le fonctionnement
 
-**en court d'écriture**
+Pour la modification il suffit d'ouvrir le fichier synthesis.fla dans un IDE comme adobe flash cs6 ou macromedia 8.
+Une fois fais vous pouvez créer un nouveau calque comme ceci (**adobe flash cs6 est utiliser pour les exemples**)
+
+[![exemple](https://image.noelshack.com/fichiers/2020/05/2/1580213184-unknown-1.png "exemple")](https://image.noelshack.com/fichiers/2020/05/2/1580213184-unknown-1.png "exemple")
+
+Une fois fais vous pouvez lui donner le nom que vous voulez cela n'a aucune importance pour la suite.
+Ensuite, allé dans l'onglet ''action'' puis collez y ceci en haut
+
+```actionscript
+_global.base = _parent._parent;
+```
+
 
 ## informations 
 > De nombreux éditeurs de logiciels propriétaires incluent dans leurs CLUF des clauses interdisant la rétro-ingénierie. Cependant dans de nombreux pays la rétro-ingénierie est autorisée par la loi, notamment à des fins d'interopérabilité. Dans ces pays, les clauses de ces CLUF ne sont pas valables, ou tout au plus dans les limites déterminées par la loi.
