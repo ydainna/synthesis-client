@@ -57,6 +57,8 @@ Enfin il vous reste plus cas modifier le code ou ajouter ce que vous voulez
 **attention**: le code non obfu est celui de la version **1.29.1** si vous voulez des fonctions de la **version actuelle** il vous faudra **adapter** le code obfu (**le traduire**) je ne fais aucun tutoriel sur ça
 Pour ce qui est des **noms de class** il vous faudra **traduire celle non obfu** en celle **obfu** (comme le screen) chaque **nom de class** n'ont pas le même nom donc **vérifier bien**.
 
+Une fois tout ça fais il vous suffis d'export le fichier fla en fichier swf et de le mettre dans votre dossier modules
+Une class exemple a été ajoutée dans le fichier synthesis.
 
 ## informations 
 > De nombreux éditeurs de logiciels propriétaires incluent dans leurs CLUF des clauses interdisant la rétro-ingénierie. Cependant dans de nombreux pays la rétro-ingénierie est autorisée par la loi, notamment à des fins d'interopérabilité. Dans ces pays, les clauses de ces CLUF ne sont pas valables, ou tout au plus dans les limites déterminées par la loi.
