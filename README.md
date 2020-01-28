@@ -34,7 +34,7 @@ Après avoir fait tout ça nous allons utiliser une fonction d'exemple à modifi
 Pour vous y retrouvez dans les dossier qui ont des noms protéger je vous conseille de télécharger les **sources du client** en forma **ActionScript** [ici](http://https://mega.nz/#!s85SzYrI!4_dHg6Z2rkstukznzleS3-xxuK_6l7toDcP8-ZNNIWc "ici")
 ainsi que les sources du client avec l'obfuscation [ici](https://mega.nz/#!04w13CKJ!E4_0ZFyz_GM2ndxef3SzgvitcjQU3b3mKWStSI-eU0Y "ici") vous pouvez utiliser le logiciel JPEX pour décompilé quand il y aura des future maj car le lien ne sera pas maintenanu à jour
 
-Pour notre cas la fonction **process** se trouve dans **ddofus/utils/consoleParsers/** et dans le fichier **ChatConsoleParser** (pour le cas non-obfu)
+Pour notre cas la fonction **process** se trouve dans **dofus/utils/consoleParsers/** et dans le fichier **ChatConsoleParser** (pour le cas non-obfu)
 Maintenant ouvrez le fichier **actionscript** puis copier toute la fonction **process**. 
 Ensuite, revenez sur synthesis puis coller toute la fonction comme ceci
 [![exemple](https://image.noelshack.com/fichiers/2020/05/2/1580215563-unknown-1.png "exemple")](https://image.noelshack.com/fichiers/2020/05/2/1580215563-unknown-1.png "exemple")
@@ -52,6 +52,10 @@ base._global.dofus["\x1e\f\x12"]["\x13\x03"]["\x13\x1a"].prototype.process = fun
 
 comme ceci
 [![exemple](https://image.noelshack.com/fichiers/2020/05/2/1580215684-unknown-1.png "exemple")](https://image.noelshack.com/fichiers/2020/05/2/1580215684-unknown-1.png "exemple")
+
+Enfin il vous reste plus cas modifier le code ou ajouter ce que vous voulez
+**attention**: le code non obfu est celui de la version **1.29.1** si vous voulez des fonctions de la **version actuelle** il vous faudra **adapter** le code obfu (**le traduire**) je ne fais aucun tutoriel sur ça
+Pour ce qui est des **noms de class** il vous faudra **traduire celle non obfu** en celle **obfu** (comme le screen) chaque **nom de class** n'ont pas le même nom donc **vérifier bien**.
 
 
 ## informations 
