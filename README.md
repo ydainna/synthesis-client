@@ -31,7 +31,7 @@ comme ceci
 [![exemple](https://image.noelshack.com/fichiers/2020/05/2/1580213654-unknown-1.png "exemple")](https://image.noelshack.com/fichiers/2020/05/2/1580213654-unknown-1.png "exemple")
 
 Après avoir fait tout ça nous allons utiliser une fonction d'exemple à modifier. Pour mon cas je vais utiliser la fonction process qui se trouve dans **dofus/utils/consoleParsers/** et dans le fichier **consoleParsers.ChatConsoleParser.as**
-Pour vous y retrouvez dans les dossier qui ont des noms protéger je vous conseille de télécharger les sources du client en forma acitonscript https://mega.nz/#!s85SzYrI!4_dHg6Z2rkstukznzleS3-xxuK_6l7toDcP8-ZNNIWc
+Pour vous y retrouvez dans les dossier qui ont des noms protéger je vous conseille de télécharger les sources du client en forma acitonscript [ici](http://https://mega.nz/#!s85SzYrI!4_dHg6Z2rkstukznzleS3-xxuK_6l7toDcP8-ZNNIWc "ici")
 
 ## informations 
 > De nombreux éditeurs de logiciels propriétaires incluent dans leurs CLUF des clauses interdisant la rétro-ingénierie. Cependant dans de nombreux pays la rétro-ingénierie est autorisée par la loi, notamment à des fins d'interopérabilité. Dans ces pays, les clauses de ces CLUF ne sont pas valables, ou tout au plus dans les limites déterminées par la loi.
